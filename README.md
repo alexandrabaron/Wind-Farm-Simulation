@@ -9,7 +9,7 @@ Features
     Maintenance System: Turbines can break down in strong winds and require maintenance, which affects energy production and incurs costs.
     Configurable Parameters: Wind transition probabilities, breakdown likelihood, production rates, and farm size can be customized.
 
-Parameters
+PARAMETERS
 
     Wind Transition Matrix: Controls daily wind speed changes.
     Failure Probability: Set probability p for turbine breakdowns during strong winds.
